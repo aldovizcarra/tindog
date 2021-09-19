@@ -23,7 +23,7 @@ Tinder for dogs
 ### Links
 
 - Solution URL: [Github](https://github.com/aldovizcarra/tindog)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://aldovizcarra.github.io/tindog/)
 
 ## My process
 
